@@ -1,6 +1,6 @@
 Tasks for interview.
 1) Euclidian traveling salesman problem(ETSP)
-2) Estimation of the average processing time of requests by the service and its variance.
+2) Estimation of the average processing time of requests by the service and its dispertion.
 
 #Задачи для собеседования. Вожга Игорь 872.
 
